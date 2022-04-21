@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "Epicguru (James B)",
@@ -33,7 +33,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.2"
+    "version": "6.2.0.4"
   },
   {
     "author": "SirRandoo",
@@ -1299,7 +1299,7 @@
     "author": "Saakra",
     "name": "Empire",
     "steamId": "2006535182",
-    "version": "0.40.02"
+    "version": "0.40.03"
   },
   {
     "author": "purpleyam",
@@ -1334,8 +1334,8 @@
   {
     "author": "telardo",
     "name": "No Laggy Bed",
-    "steamId": null,
-    "version": null
+    "steamId": "2790250834",
+    "version": "1.0.0.0"
   },
   {
     "author": "SomewhereOutInSpace",
@@ -1368,9 +1368,27 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Major Hoff",
-    "name": "RimThreaded",
-    "steamId": "2222907981",
-    "version": "2.6.4"
+    "author": "ThatHitmann",
+    "name": "Nanomachines+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "Craft with Color",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
